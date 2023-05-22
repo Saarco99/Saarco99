@@ -1,6 +1,9 @@
 # 💫 About Me:
-Second year computer science (B.Sc.) student in the Academic College of Tel-Aviv, Yaffo<br>Programming experience in Java, C, C++, Python.<br>Highly motivated, quick learner, self-teaching skills and a high desire to learn.
-
+Second year computer science (B.Sc.) student in the Academic College of Tel-Aviv, Yaffo<br>Programming experience in Java, C, C++, Python.<br>
+-----------------------------------------------------------------------------------------------------------------------------------------
+Highly motivated and quick learner with a strong passion for computer science and a high desire to learn.
+Possessing excellent self-teaching skills. With a solid foundation in computer science gained through my studies at the Academic College of Tel-Aviv , I am eager to contribute my technical expertise to a dynamic and innovative high-tech company.
+Complemented by my strong interpersonal skills, I thrive in collaborative environments and excel at working with people to achieve shared goals.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saarco99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saar-cohen-bb8684222) 
