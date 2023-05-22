@@ -4,6 +4,11 @@ Second year computer science (B.Sc.) student in the Academic College of Tel-Aviv
 Highly motivated and quick learner with a strong passion for computer science and a high desire to learn.
 Possessing excellent self-teaching skills. With a solid foundation in computer science gained through my studies at the Academic College of Tel-Aviv , I am eager to contribute my technical expertise to a dynamic and innovative high-tech company.
 Complemented by my strong interpersonal skills, I thrive in collaborative environments and excel at working with people to achieve shared goals.
+## 🧮 Courses:
+⦿Deep Learning at Academic College of Tel-Aviv, Yaffo
+⦿Development Application Java at Academic College of Tel-Aviv, Yaffo
+⦿Machine learning with Python at Academic College of Tel-Aviv, Yaffo
+⦿Object Oriented Programming and C++ at Academic College of Tel-Aviv, Yaffo
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saarco99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saar-cohen-bb8684222) 
