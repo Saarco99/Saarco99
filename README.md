@@ -1,9 +1,7 @@
 # 💫 About Me:
 Second year Computer Science (B.Sc.) student in the Academic College of Tel-Aviv, Yaffo<br>Programming experience in Java, Python, C++ & C.<br>
 -----------------------------------------------------------------------------------------------------------------------------------------
-Highly motivated and quick learner with a strong passion for computer science and a high desire to learn.
-Possessing excellent self-teaching skills. With a solid foundation in computer science gained through my studies at the Academic College of Tel-Aviv , I am eager to contribute my technical expertise to a dynamic and innovative high-tech company.
-Complemented by my strong interpersonal skills, I thrive in collaborative environments and excel at working with people to achieve shared goals.
+
 ## 🧮 Courses:
 ⦿Deep Learning at Academic College of Tel-Aviv, Yaffo <br>
 ⦿Development Application Java at Academic College of Tel-Aviv, Yaffo<br>
