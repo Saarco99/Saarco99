@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year Computer Science (B.Sc.) student in the Academic College of Tel-Aviv, Yaffo<br>Programming experience in Java, Python, C++ & C.<br>
+Second year Computer Science (B.Sc.) student in the Academic College of Tel-Aviv, Yaffo<br>Programming experience in Java,  C++ , C#, C & Python.<br>
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧮 Courses:
