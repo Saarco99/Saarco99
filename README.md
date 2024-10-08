@@ -1,12 +1,7 @@
 # 💫 About Me:
-Second year Computer Science (B.Sc.) student in the Academic College of Tel-Aviv, Yaffo<br>Programming experience in Java,  C++ , C#, C & Python.<br>
+Computer Science B.Sc <br>Programming experience in Java,  C++ , C#, C & Python and more.<br>
 -----------------------------------------------------------------------------------------------------------------------------------------
-
-## 🧮 Courses:
-⦿Deep Learning at Academic College of Tel-Aviv, Yaffo <br>
-⦿Development Application Java at Academic College of Tel-Aviv, Yaffo<br>
-⦿Machine learning with Python at Academic College of Tel-Aviv, Yaffo<br>
-⦿Object Oriented Programming and C++ at Academic College of Tel-Aviv, Yaffo<br>
+DNA Storage research won 3th place at ISW 2024 (Israeli Systems Workshop)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saarco99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saar-cohen-bb8684222) 
